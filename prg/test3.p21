@@ -1,0 +1,10 @@
+fun f():int = 45;
+var i :int;
+
+fun main():int={
+    i = 1 + 2;
+    2;
+    3;
+    f();
+    i;
+};

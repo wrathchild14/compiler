@@ -1,0 +1,2 @@
+fun f(i:int):int = i + 1;
+fun main():int = 5 + 10 + f(1);

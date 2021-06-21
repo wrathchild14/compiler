@@ -1,0 +1,9 @@
+fun putChar(c:char):void = none;
+
+fun main():void = {
+	putChar('H'); putChar('e'); putChar('l'); putChar('l'); putChar('o');
+	putChar(' ');
+	putChar('w'); putChar('o'); putChar('r'); putChar('l'); putChar('d'); putChar('!');
+};
+
+
